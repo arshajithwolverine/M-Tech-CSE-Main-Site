@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mtechwebsite-5ddd6"
+  },
+  "targets": {
+    "mtechwebsite-5ddd6": {
+      "hosting": {
+        "main": [
+          "cet-mtech-cse"
+        ]
+      }
+    }
+  }
+}
